@@ -5,7 +5,7 @@
 
 A graphical simulator for CPU scheduling algorithms with Gantt chart visualization, built using Python Tkinter and Matplotlib.
 
-![Screenshot](docs/screenshots/main_window.png) <!-- Add actual screenshot -->
+![Screenshot](screenshots/main_window.png) <!-- Add actual screenshot -->
 
 ## Features
 - Supports 6 scheduling algorithms:
